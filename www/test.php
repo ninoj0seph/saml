@@ -18,3 +18,4 @@
         </tr>
     <?php endforeach;?>
 </table>
+    <?php echo "<br><br><a href='out.php'>LogOut</a>"?>
